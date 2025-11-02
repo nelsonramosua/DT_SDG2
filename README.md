@@ -4,13 +4,7 @@
 
 Este repositório documenta o desenvolvimento do projeto no âmbito do módulo de **Design Thinking** da unidade curricular CT1, com foco no **Objetivo de Desenvolvimento Sustentável 2 (SDG2 – Zero Hunger)**.  
 
-Inclui recursos e registos do processo criativo, desde a fase de empatia até à ideação e prototipagem.
-
-Não será de forma nenhuma utilizado para efeitos de entrega; tão-só para facilitar o desenvolvimento.
-
-## Objetivo Geral
-
-Compreender as necessidades, sentimentos e motivações de diferentes intervenientes relacionados com o problema da **fome e desperdício alimentar**, de modo a fundamentar a definição de oportunidades e soluções inovadoras.
+Não deverá de forma alguma ser utilizado para efeitos de entrega; tão-só para facilitar o desenvolvimento.
 
 ---
 # Recursos:
