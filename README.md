@@ -1,10 +1,10 @@
 # Design Thinking — Repositório de Desenvolvimento do Trabalho
----
-# Overview
+
+Overview:
+
 Este repositório documenta o desenvolvimento do projeto no âmbito do módulo de **Design Thinking** da unidade curricular CT1, com foco no **Objetivo de Desenvolvimento Sustentável 2 (SDG2 – Zero Hunger)**.  
 Inclui recursos e registos do processo criativo, desde a fase de empatia até à ideação e prototipagem.
 Não será de forma nenhuma utilizado para efeitos de entrega; tão-só para facilitar o desenvolvimento.
----
 
 ## Objetivo Geral
 
@@ -29,8 +29,6 @@ O mapa sintetiza os contributos recolhidos nas entrevistas a três personas repr
 
 | Nome | N.º Mecanográfico |
 |------|--------------------|
+| Lara Marques | 125413 | 
 | Nelson Ramos | 124921 | 
-| [Membro 2] | [N.º Mecanográfico] | 
-| [Membro 3] | [N.º Mecanográfico] | 
-
-*TODO: Completar com os nomes e NMecs dos restantes membros do grupo.*
+| Rodrigo Gonçalves | 124750 | 
